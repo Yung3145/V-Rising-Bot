@@ -14,6 +14,7 @@ int main() {
  cout << sayilar[n] << " ";
  }
  system("pause");
+
  return 0;
  
 }
