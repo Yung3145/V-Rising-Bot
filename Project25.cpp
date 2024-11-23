@@ -9,7 +9,9 @@ int main() {
  cin >> sayilar[i];
  }
  cout << endl << "Girilen sayilar: ";
+ 
  // dizi elemanlarini ekranda yazdir
+ 
  for (int n = 0; n < 5; ++n) {
  cout << sayilar[n] << " ";
  }
