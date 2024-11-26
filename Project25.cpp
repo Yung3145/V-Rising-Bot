@@ -6,6 +6,7 @@ int main() {
  cout << "5 Tane Tamsayi Girmelisiniz!" << endl;
 
 
+
  
  // girilen degerleri bir int dizisinde sakla
  
