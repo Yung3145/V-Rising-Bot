@@ -11,6 +11,7 @@ int main() {
  // girilen degerleri bir int dizisinde sakla
  
  
+ 
 
 
 
