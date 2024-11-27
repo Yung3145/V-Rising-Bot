@@ -10,10 +10,6 @@ int main() {
  
  // girilen degerleri bir int dizisinde sakla
  
- 
- 
-
-
 
 
  for (int i = 0; i < 5; ++i) {
