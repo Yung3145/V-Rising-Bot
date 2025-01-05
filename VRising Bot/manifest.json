@@ -1,0 +1,9 @@
+{
+    "name": "Silkworm",
+    "version_number": "1.2.2",
+    "website_url": "https://github.com/iZastic/vrising-silkworm",
+    "description": "Custom VRising library inspired by Wetstone",
+    "dependencies": [
+        "BepInEx-BepInExPack_V_Rising-1.668.5"
+    ]
+}
