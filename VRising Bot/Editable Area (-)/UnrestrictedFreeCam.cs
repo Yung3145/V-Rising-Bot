@@ -1,5 +1,7 @@
 using System;
 using UnityEngine;
+using VRising.ESP;
+using ProjectM;
 
 // Token: 0x02000015 RID: 21
 public class UnrestrictedFreeCam : MonoBehaviour
