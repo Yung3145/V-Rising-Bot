@@ -252,9 +252,9 @@ namespace VRisingESP.ESP
 						}
 					}
 				}
-			}
+			} 
 		}
-
+            // need to check again Code:247
 		// Token: 0x0600006D RID: 109 RVA: 0x00004218 File Offset: 0x00002418
 		public static void DrawCarriages()
 		{
