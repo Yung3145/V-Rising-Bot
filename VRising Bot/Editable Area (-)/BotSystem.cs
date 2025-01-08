@@ -1,4 +1,5 @@
 using System;
+using System.Runtime.CompilerServices;
 using Unity.Collections;
 using Unity.Entities;
 using UnityEngine;
@@ -8,6 +9,7 @@ using VrisingESP.ESP.Entity; // maybe entities i forgot[check]
 // Token: 0x02000013 RID: 19
 public class ESPSystem
 {
+	
 	// Token: 0x06000073 RID: 115 RVA: 0x000043A4 File Offset: 0x000025A4
 	private void HighlightHighBloodTerritories(EntityManager entityManager, NativeArray<Entity> territoryEntities, float bloodThreshold = 0.92f)
 	{
