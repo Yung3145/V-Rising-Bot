@@ -4,7 +4,7 @@ using Unity.Collections;
 using Unity.Entities;
 using UnityEngine;
 using ProjectM;
-using VrisingESP.ESP.Entity; // maybe entities i forgot[check]
+using VrisingESP.ESP.Entity; 
 
 // Token: 0x02000013 RID: 19
 public class ESPSystem
