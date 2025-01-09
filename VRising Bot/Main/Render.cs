@@ -13,7 +13,7 @@ namespace VRisingESP.ESP
 	internal class Render
 	{
 		// Token: 0x06000067 RID: 103 RVA: 0x000034B8 File Offset: 0x000016B8
-		public static void DrawPlayers()
+		public static void DrawPlayers() // will render for player , more distance ****
 		{
 			EntityManager entityManager = VWorld.Game.EntityManager;
 			if (EntityList.Players != null)
