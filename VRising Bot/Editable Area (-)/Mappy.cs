@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using ProjectM;
 
+//need access to main.not usable now
+
 namespace Mappy
 {
 	// Token: 0x02000016 RID: 22
