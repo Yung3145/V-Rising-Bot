@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using ProjectM;
 
+
+// Duplicate class, will convert to UnityEngine
 //need access to main.not usable now
 
 namespace Mappy
