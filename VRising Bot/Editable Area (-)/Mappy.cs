@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 namespace Mappy
 {
     public class Mappy : MonoBehaviour
@@ -47,7 +48,7 @@ namespace Mappy
         {
             if (Input.GetKeyDown(KeyCode.F9))
             {
-                ToggleESP();
+                ToggleESP(); //create new one
             }
         }
 
