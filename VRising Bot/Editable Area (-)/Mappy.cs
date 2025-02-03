@@ -104,7 +104,7 @@ namespace Mappy
             // Burada gerçek oyun içi varlıkları almak için bir sistem kullanılmalı.
             return new List<Entity>
             {
-                new Entity(95, new Vector3(1, 0, 2)),
+                new Entity(92, new Vector3(1, 0, 2)),
                 new Entity(80, new Vector3(3, 0, 4)),
                 new Entity(99, new Vector3(-1, 0, 5)),
             };
