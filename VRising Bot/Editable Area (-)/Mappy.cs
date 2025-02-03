@@ -106,7 +106,7 @@ namespace Mappy
             {
                 new Entity(92, new Vector3(1, 0, 2)),
             
-                new Entity(98, new Vector3(-1, 0, 5)),
+                new Entity(99, new Vector3(-1, 0, 5)),
             };
         }
     }
